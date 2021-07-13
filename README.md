@@ -1,2 +1,2 @@
 # NoxSnipe
- Minecraft name sniper
+ Multithreaded Java Minecraft name sniper
